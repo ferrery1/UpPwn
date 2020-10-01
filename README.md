@@ -1,4 +1,4 @@
-# UpPwn
+# UpPwn - An amazing project 
 
 ### Version 0.1 [Dev in progress]
 
