@@ -2,7 +2,7 @@
 
 ### Version 0.1 [Dev in progress]
 
-## About
+## About The Project
 
 UpPwn is a script that automate detection of security flaws on websites' file upload systems.
 In some cases it also allows to exploit these vulnerabilities in order to upload malicious files.
